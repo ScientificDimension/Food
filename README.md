@@ -1,6 +1,5 @@
 # Receive the answer, process it and show the list of restaurants in the table
 
-================================
 ## Task 
  There is an URL https://eda.yandex/api/v2/catalog?latitude=55.762885&longitude=37.597360
  The answer comes in json format.
