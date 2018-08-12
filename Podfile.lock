@@ -1,0 +1,42 @@
+PODS:
+  - Kingfisher (4.8.0)
+  - MBProgressHUD (1.1.0)
+  - Nuke (7.3)
+  - PromiseKit (6.3.4):
+    - PromiseKit/CorePromise (= 6.3.4)
+    - PromiseKit/Foundation (= 6.3.4)
+    - PromiseKit/UIKit (= 6.3.4)
+  - PromiseKit/CorePromise (6.3.4)
+  - PromiseKit/Foundation (6.3.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.3.4):
+    - PromiseKit/CorePromise
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+
+DEPENDENCIES:
+  - Kingfisher (~> 4.0)
+  - MBProgressHUD (~> 1.1.0)
+  - Nuke (~> 7.0)
+  - PromiseKit (~> 6.0)
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - MBProgressHUD
+    - Nuke
+    - PromiseKit
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  Nuke: 3680b7186b18f84a5e9e283bfce4357bfd70fdf9
+  PromiseKit: e1425568123ec844a944c93f2bcb29d511d39cf5
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: 83305da580d4b018e1b37457ae02c3e46c3854e5
+
+COCOAPODS: 1.5.3
